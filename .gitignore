@@ -1,0 +1,11 @@
+
+
+# Ignore the venv directory in the root
+/venv/
+
+
+
+# Ignore __pycache__ directories
+__pycache__/
+
+weights/
