@@ -10,11 +10,13 @@ Here's how you can add a section to your README for showcasing the output with t
 ## 📸 Sample Output
 
 Below is a screenshot of the English to Nepali Translator in action:
-
+**Screenshot 1:**
 ![alt text](image.png)
-Screenshot 2: 
+
+**Screenshot 2:**
 ![alt text](image-1.png)
-Screenshot 3: 
+
+**Screenshot 3:**
 ![alt text](image-2.png)
 
 
